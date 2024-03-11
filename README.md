@@ -19,7 +19,7 @@ Assignment 1 : Create a simple React app for RESUME Builder. It will be static w
     ...
     }
 You can choose any simple HTML layout and convert it to React Components
-Annwer: Created AppResume as main component and header, footer, about, contact, resume and portfolio as sub components.
+--Annwer: Created AppResume as main component and header, footer, about, contact, resume and portfolio as sub components.
 
 --------------------------------------------------------------------------------
 React Assignment 2.2
@@ -30,7 +30,7 @@ Assignment 2 : Create a Parent Component called Border which can provide some CS
      <Component> 
  <Border />
 
-Answer:
+--Answer:
 Created Border component and used in Profile pic section of About Component
 
 --------------------------------------------------------------------------------
