@@ -20,16 +20,17 @@ Assignment 1 : Create a simple React app for RESUME Builder. It will be static w
     }
 You can choose any simple HTML layout and convert it to React Components
 # Annwer: Created AppResume as main component and header, footer, about, contact, resume and portfolio as sub components.
+- [Click me] (https://github.com/gitsumitsingh/React_Assignment_2.1_-_2.2) for github URL
 
 --------------------------------------------------------------------------------
 # React Assignment 2.2
 Assignment 2 : Create a Parent Component called Border which can provide some CSS border to any component nested into it.
-[Hint : You will need to use children props here
+[Hint : You will need to use children props here]
 
  <Border> 
      <Component> 
  <Border />
 
 # Answer:Created Border component and used in Profile pic section of About Component
-
+- [Click me] (https://github.com/gitsumitsingh/React_Assignment_2.1_-_2.2) for github URL
 --------------------------------------------------------------------------------
